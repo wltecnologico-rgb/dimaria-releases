@@ -1,8 +1,8 @@
-version: 1.0.4
+version: 1.0.5
 files:
-  - url: DIMARIA-Orcamentos-Setup-1.0.4.exe
-    sha512: 7amTvGXF5RuRoYx24oWlEpgOAmU5sJG9uD+ivNvV5w8gohEgkXxUa8zxDmBfdquB5gd77b4eSpYWwaeHFrGV7Q==
-    size: 82651637
-path: DIMARIA-Orcamentos-Setup-1.0.4.exe
-sha512: 7amTvGXF5RuRoYx24oWlEpgOAmU5sJG9uD+ivNvV5w8gohEgkXxUa8zxDmBfdquB5gd77b4eSpYWwaeHFrGV7Q==
-releaseDate: '2026-11-07T10:53:16.526Z'
+  - url: DIMARIA-Orcamentos-Setup-1.0.5.exe
+    sha512: ecxZ/MTX3K0/pygitvwpxxF8RYM7wMCPb0/oRJlDFwZJOX96umcUlG3o/Q0PvQPXIoVZsw8qdLviA63qERuQRw==
+    size: 82651887
+path: DIMARIA-Orcamentos-Setup-1.0.5.exe
+sha512: ecxZ/MTX3K0/pygitvwpxxF8RYM7wMCPb0/oRJlDFwZJOX96umcUlG3o/Q0PvQPXIoVZsw8qdLviA63qERuQRw==
+releaseDate: '2026-11-07T11:22:44.539Z'
